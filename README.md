@@ -1,4 +1,4 @@
-## Hi there!, Mário Dhiego Valente
+## Hi there!, Wilker Marlon Maciel Puga
 
 <div align="center">
   <a href="https://github.com/wilpuga">
