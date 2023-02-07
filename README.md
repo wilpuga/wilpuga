@@ -24,7 +24,6 @@ Hi there!, Wilker puga
 <div style="display: inline_block"><br>
 <img align="center" alt="Wilpuga-RStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"/>
  <img align="center" alt="Wilpuga-RStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-<img align="center" alt="Wilpuga-RStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
  <img align="center" alt="Wilpuga-Github" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   
  <div> 
