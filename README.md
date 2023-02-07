@@ -9,4 +9,13 @@ Hi there!, Wilker puga
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wilpuga" alt="Wilpuga" /></p>
 <p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wilpuga&theme=github" /></p>
 <p>&nbsp;<img align="center" src="https://github-stats-alpha.vercel.app/api?username=Wilpuga&bc=ebebeb&ic=0E8AD9" alt="Wilpuga" /></p>
+
+## Computer: Programming Languages
+
+<div style="display: inline_block"><br>
+<img align="center" alt="Wilpuga-Spss" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-plain.svg"/>
+<img align="center" alt="Wilpuga-R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
+<img align="center" alt="Wilpuga-Latex" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
+<img align="center" alt="Wilpuga-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+</div>
   
