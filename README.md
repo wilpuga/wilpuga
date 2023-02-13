@@ -31,3 +31,17 @@ Hi there!, Wilker puga
   <a href="https://www.linkedin.com/in/Wilkerpuga-9b721223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
   
+
+<b>My GitHub Stats</b>
+
+
+<a href="http://www.github.com/Wilpuga
+
+<a href="http://www.github.com/peguimasid"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=peguimasid&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+
+
+
+
+
